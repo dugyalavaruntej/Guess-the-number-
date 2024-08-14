@@ -8,7 +8,7 @@ Welcome to the "Guess the Number" game! This project is a simple web-based game 
 
 ## Demo
 
-You can check out the live version of the game here: [Guess the Number](https://dugyalavaruntej.github.io/Guess-the-number/)
+You can check out the live version of the game here: [Guess the Number](https://dugyalavaruntej.github.io/Guess-the-number-/).
 
 ## Features
 
